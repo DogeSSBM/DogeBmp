@@ -18,3 +18,4 @@
 
 #include "Types.h"
 #include "GetInt.h"
+#include "Palette.h"
